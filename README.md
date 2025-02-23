@@ -1,2 +1,2 @@
-# Repeti-oes
+# Repeticoes
 Exercícios resolvidos sobre Repetições
